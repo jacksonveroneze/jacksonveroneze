@@ -7,7 +7,7 @@
 
 Back-End Developer | Mobile Developer | Team Leader
 
-### About me
+### Sobre
 Trabalho como desenvolvedor full-stack há 8 anos, possuindo maior
 experiência em backend. Ao longo desses anos desenvolvo sistemas para a
 área da saúde e nos últimos 2 anos iniciei na área de desenvolvimento mobile.
