@@ -9,6 +9,4 @@ Back-End Developer | Mobile Developer
 
 
 ### Sobre
-Trabalho como desenvolvedor full-stack há 8 anos, sendo 3 anos como desenvolvedor sênior e 1 ano como líder técnico, possuindo maior experiência em backend. Durante esses anos trabalhando na área, desenvolvo sistemas para a área da saúde e, nos últimos 3 anos, iniciei na área de desenvolvimento mobile.
-
-Sou proativo, autodidata, gosto de trabalhar em equipe e estou sempre disposto a ajudar e compartilhar conhecimento. 
+Sou proativo, autodidata, gosto de trabalhar em equipe e estou sempre disposto a ajudar e compartilhar conhecimento.
